@@ -1,5 +1,5 @@
 # CT-1967
-Here, I've automated the Isuue-specific CT1967 and also showed the assertion for the full customer new register payload of v1/v2/v3/v4 according to what has been set on the "customerRegistrationFormat" key of the environment.json file.
+Here, I've automated the Isuue-specific CT1967 and also showed the assertion for the full customer new register payload of v1/v2/v3/v4 according to what has been set on the "customerRegistrationFormat" key of the environment.json file. The assert data is similar to this Excel file, https://docs.google.com/spreadsheets/d/1SGin9L5mKGE-iC1Bmv3YZH-WbOBKlc7oAJH1ADgJmVY/edit?gid=0#gid=0 
 
 NewRegister Payload for V4
 
